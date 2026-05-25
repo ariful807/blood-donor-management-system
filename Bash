@@ -1,0 +1,6 @@
+# Repository ক্লোন করুন
+git clone https://github.com/ariful807/blood-donor-management-system.git
+cd blood-donor-management-system
+
+# Frontend ফোল্ডার তৈরি করুন
+mkdir frontend backend docs database
